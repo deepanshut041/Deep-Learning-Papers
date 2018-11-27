@@ -47,18 +47,34 @@ A curated list of the most cited deep learning papers implementation (2012-2018)
 - **Building high-level features using large scale unsupervised learning** (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209) -->
 
 ### Convolutional Neural Network Models
-- **Rethinking the inception architecture for computer vision** (2016), C. Szegedy et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
-- **Inception-v4, inception-resnet and the impact of residual connections on learning** (2016), C. Szegedy et al. [[pdf]](http://arxiv.org/pdf/1602.07261)
-- **Identity Mappings in Deep Residual Networks** (2016), K. He et al. [[pdf]](https://arxiv.org/pdf/1603.05027v2.pdf)
-- **Deep residual learning for image recognition** (2016), K. He et al. [[pdf]](http://arxiv.org/pdf/1512.03385)
-- **Spatial transformer network** (2015), M. Jaderberg et al., [[pdf]](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)
-- **Going deeper with convolutions** (2015), C. Szegedy et al.  [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
-- **Very deep convolutional networks for large-scale image recognition** (2014), K. Simonyan and A. Zisserman [[pdf]](http://arxiv.org/pdf/1409.1556)
-- **Return of the devil in the details: delving deep into convolutional nets** (2014), K. Chatfield et al. [[pdf]](http://arxiv.org/pdf/1405.3531)
-- **OverFeat: Integrated recognition, localization and detection using convolutional networks** (2013), P. Sermanet et al. [[pdf]](http://arxiv.org/pdf/1312.6229)
-- **Maxout networks** (2013), I. Goodfellow et al. [[pdf]](http://arxiv.org/pdf/1302.4389v4)
-- **Network in network** (2013), M. Lin et al. [[pdf]](http://arxiv.org/pdf/1312.4400)
-- **ImageNet classification with deep convolutional neural networks** (2012), A. Krizhevsky et al. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- [ ] **EffNet: An Efficient Structure for Convolutional Neural Networks**, Freeman et al.
+[`arxiv`](https://arxiv.org/abs/1801.06434)
+- [ ] **Squeeze-and-Excitation Networks**, Hu et al. [`arxiv`](https://arxiv.org/abs/1709.01507)
+- [ ] **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**, Howard et al.
+[`arxiv`](https://arxiv.org/abs/1704.04861)
+- [ ] **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**, Zhang et al.
+[`arxiv`](https://arxiv.org/abs/1707.01083)
+- [ ] **Residual Attention Network for Image Classification**, Wang et al.
+[`arxiv`](https://arxiv.org/abs/1704.06904)
+- [ ] **Densely Connected Convolutional Networks**, Huang et al.
+[`arxiv`](https://arxiv.org/abs/1608.06993)
+- [ ] **Xception: Deep Learning with Depthwise Separable Convolutions**, Chollet.
+[`arxiv`](https://arxiv.org/abs/1610.02357) 
+- [ ] **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**,
+Liu et al. [`pdf`](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
+- [ ] **Practical Riemannian Neural Networks**, Marceau-Caron and Ollivier.
+[`arxiv`](https://arxiv.org/abs/1602.08007)
+- [ ] **Rethinking the Inception Architecture for Computer Vision**, Szegedy et al.
+[`arxiv`](https://arxiv.org/abs/1512.00567)
+- [ ] **Deep Residual Learning for Image Recognition**, He et al.
+[`arxiv`](https://arxiv.org/abs/1512.03385)
+- [ ] **Very Deep Convolutional Networks for Large-Scale Image Recognition**, Simonyan et al.
+[`arxiv`](https://arxiv.org/abs/1409.1556) 
+- [ ] **Going Deeper with Convolutions**, Szegedy et al. [`arxiv`](https://arxiv.org/abs/1409.4842) :star:
+- [ ] **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**, He et al.
+[`arxiv`](https://arxiv.org/abs/1406.4729)
+- [X] **ImageNet Classification with Deep Convolutional Neural Networks(AlexNet)**, Krizhevsky et al.
+[`arxiv`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) :star:
 
 
 ### Image: Segmentation / Object Detection
