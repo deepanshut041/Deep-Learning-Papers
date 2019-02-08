@@ -71,8 +71,6 @@ Liu et al. [`pdf`](https://www.cv-foundation.org/openaccess/content_cvpr_2016/pa
 - [ ] **Very Deep Convolutional Networks for Large-Scale Image Recognition**, Simonyan et al.
 [`arxiv`](https://arxiv.org/abs/1409.1556) 
 - [ ] **Going Deeper with Convolutions**, Szegedy et al. [`arxiv`](https://arxiv.org/abs/1409.4842) :star:
-- [ ] **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**, He et al.
-[`arxiv`](https://arxiv.org/abs/1406.4729)
 - [X] **ImageNet Classification with Deep Convolutional Neural Networks(AlexNet)**, Krizhevsky et al.
 [`arxiv`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) :star:
 
