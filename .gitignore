@@ -1,4 +1,6 @@
 .vscode
 *.h5
 **/.ipynb_checkpoints
+*.pt
+**/data
 
