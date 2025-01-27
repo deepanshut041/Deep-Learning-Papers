@@ -18,74 +18,48 @@ A curated list of the most cited deep learning papers implementation.
 * [Specialized Topics and Applications](#specialized-topics-and-applications)
 
 ### Fundamentals of NLP
-- [X] **Efficient Estimation of Word Representations in Vector Space**, Mikolov et al.  
-[`pdf`](https://arxiv.org/abs/1301.3781)
-- [X] **Distributed Representations of Words and Phrases and Their Compositionality**, Mikolov et al.  
-[`pdf`](https://arxiv.org/abs/1310.4546)
-- [X] **Linguistic Regularities in Continuous Space Word Representations**, Mikolov et al.  
-[`pdf`](https://arxiv.org/abs/1308.3676)
-- [ ] **GloVe: Global Vectors for Word Representation**, Pennington et al.  
-[`pdf`](https://arxiv.org/abs/1406.1182)
-- [ ] **Sequence to Sequence Learning with Neural Networks**, Sutskever et al.  
-[`pdf`](https://arxiv.org/abs/1409.3215)
-- [ ] **Neural Machine Translation by Jointly Learning to Align and Translate**, Bahdanau et al.  
-[`pdf`](https://arxiv.org/abs/1409.0473)
+- [X] **Efficient Estimation of Word Representations in Vector Space**, Mikolov et al.  [`pdf`](https://arxiv.org/abs/1301.3781)
+- [X] **Distributed Representations of Words and Phrases and Their Compositionality**, Mikolov et al.  [`pdf`](https://arxiv.org/abs/1310.4546)
+- [X] **Linguistic Regularities in Continuous Space Word Representations**, Mikolov et al.  [`pdf`](https://arxiv.org/abs/1308.3676)
+- [ ] **GloVe: Global Vectors for Word Representation**, Pennington et al.  [`pdf`](https://arxiv.org/abs/1406.1182)
+- [ ] **Sequence to Sequence Learning with Neural Networks**, Sutskever et al.  [`pdf`](https://arxiv.org/abs/1409.3215)
+- [ ] **Neural Machine Translation by Jointly Learning to Align and Translate**, Bahdanau et al.  [`pdf`](https://arxiv.org/abs/1409.0473)
 
 ### Foundation of Deep Learning for NLP
-- [ ] **Attention Is All You Need**, Vaswani et al.  
-[`pdf`](https://arxiv.org/abs/1706.03762)
-- [ ] **Deep Contextualized Word Representations**, Peters et al.  
-[`pdf`](https://arxiv.org/abs/1802.05365)
-- [ ] **Universal Language Model Fine-tuning for Text Classification**, Howard and Ruder  
-[`pdf`](https://arxiv.org/abs/1801.06146)
+- [ ] **Attention Is All You Need**, Vaswani et al.  [`pdf`](https://arxiv.org/abs/1706.03762)
+- [ ] **Deep Contextualized Word Representations**, Peters et al.  [`pdf`](https://arxiv.org/abs/1802.05365)
+- [ ] **Universal Language Model Fine-tuning for Text Classification**, Howard and Ruder  [`pdf`](https://arxiv.org/abs/1801.06146)
 
 ### Language Models and Pretraining
-- [ ] **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**, Devlin et al.  
-[`pdf`](https://arxiv.org/abs/1810.04805)
-- [ ] **Improving Language Understanding by Generative Pre-training (GPT)**, Radford et al.  
-[`pdf`](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- [ ] **Language Models Are Few-Shot Learners (GPT-2)**, Radford et al.  
-[`pdf`](https://cdn.openai.com/better-language-models/language_models_are_few_shot_learners.pdf)
+- [ ] **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**, Devlin et al.  [`pdf`](https://arxiv.org/abs/1810.04805)
+- [ ] **Improving Language Understanding by Generative Pre-training (GPT)**, Radford et al.  [`pdf`](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [ ] **Language Models Are Few-Shot Learners (GPT-2)**, Radford et al.  [`pdf`](https://cdn.openai.com/better-language-models/language_models_are_few_shot_learners.pdf)
 
 ### Advanced Language Models
-- [ ] **Language Models Are Few-Shot Learners (GPT-3)**, Brown et al.  
-[`pdf`](https://arxiv.org/abs/2005.14165)
-- [ ] **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)**, Raffel et al.  
-[`pdf`](https://arxiv.org/abs/1910.10683)
-- [ ] **XLNet: Generalized Autoregressive Pretraining for Language Understanding**, Yang et al.  
-[`pdf`](https://arxiv.org/abs/1906.08237)
-- [ ] **RoBERTa: A Robustly Optimized BERT Pretraining Approach**, Liu et al.  
-[`pdf`](https://arxiv.org/abs/1907.11692)
+- [ ] **Language Models Are Few-Shot Learners (GPT-3)**, Brown et al.  [`pdf`](https://arxiv.org/abs/2005.14165)
+- [ ] **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)**, Raffel et al.  [`pdf`](https://arxiv.org/abs/1910.10683)
+- [ ] **XLNet: Generalized Autoregressive Pretraining for Language Understanding**, Yang et al.  [`pdf`](https://arxiv.org/abs/1906.08237)
+- [ ] **RoBERTa: A Robustly Optimized BERT Pretraining Approach**, Liu et al.  [`pdf`](https://arxiv.org/abs/1907.11692)
 
 ### Multimodal Learning
-- [ ] **Learning Transferable Visual Models From Natural Language Supervision (CLIP)**, Radford et al.  
-[`pdf`](https://arxiv.org/abs/2103.00020)
-- [ ] **Zero-Shot Text-to-Image Generation (DALL-E)**, Ramesh et al.  
-[`pdf`](https://arxiv.org/abs/2102.12092)
-- [ ] **Few-Shot Learning with Multimodal Models (Flamingo)**, Alayrac et al.  
-[`pdf`](https://arxiv.org/abs/2204.14198)
+- [ ] **Learning Transferable Visual Models From Natural Language Supervision (CLIP)**, Radford et al.  [`pdf`](https://arxiv.org/abs/2103.00020)
+- [ ] **Zero-Shot Text-to-Image Generation (DALL-E)**, Ramesh et al.  [`pdf`](https://arxiv.org/abs/2102.12092)
+- [ ] **Few-Shot Learning with Multimodal Models (Flamingo)**, Alayrac et al.  [`pdf`](https://arxiv.org/abs/2204.14198)
 
 ### Fine-Tuning and Prompting
-- [ ] **Making Pre-trained Language Models Better Few-shot Learners**, Gao et al.  
-[`pdf`](https://arxiv.org/abs/2101.00190)
-- [ ] **Low-Rank Adaptation of Large Language Models (LoRA)**, Hu et al.  
-[`pdf`](https://arxiv.org/abs/2106.09685)
+- [ ] **Making Pre-trained Language Models Better Few-shot Learners**, Gao et al.  [`pdf`](https://arxiv.org/abs/2101.00190)
+- [ ] **Low-Rank Adaptation of Large Language Models (LoRA)**, Hu et al.  [`pdf`](https://arxiv.org/abs/2106.09685)
 
 ### Efficient NLP Models
-- [ ] **DistilBERT: A Distilled Version of BERT**, Sanh et al.  
-[`pdf`](https://arxiv.org/abs/1910.01108)
-- [ ] **Generating Long Sequences with Sparse Transformers**, Child et al.  
-[`pdf`](https://arxiv.org/abs/1904.10509)
+- [ ] **DistilBERT: A Distilled Version of BERT**, Sanh et al.  [`pdf`](https://arxiv.org/abs/1910.01108)
+- [ ] **Generating Long Sequences with Sparse Transformers**, Child et al.  [`pdf`](https://arxiv.org/abs/1904.10509)
 
 ### RLHF and Fine-Tuning
-- [ ] **Training Language Models to Follow Instructions with Human Feedback (InstructGPT)**, OpenAI  
-[`pdf`](https://arxiv.org/abs/2203.02155)
-- [ ] **Proximal Policy Optimization**, Schulman et al.  
-[`pdf`](https://arxiv.org/abs/1707.06347)
+- [ ] **Training Language Models to Follow Instructions with Human Feedback (InstructGPT)**, OpenAI  [`pdf`](https://arxiv.org/abs/2203.02155)
+- [ ] **Proximal Policy Optimization**, Schulman et al.  [`pdf`](https://arxiv.org/abs/1707.06347)
 
 ### Recent State-of-the-Art Models
-- [ ] **LLaMA: Open and Efficient Foundation Language Models**, Meta AI  
-[`pdf`](https://arxiv.org/abs/2302.13971)
+- [ ] **LLaMA: Open and Efficient Foundation Language Models**, Meta AI  [`pdf`](https://arxiv.org/abs/2302.13971)
 - [ ] **Gemini AI (2024)**: Monitor papers or blogs by OpenAI and Google DeepMind.
 
 
@@ -128,32 +102,20 @@ A curated list of the most cited deep learning papers implementation.
 - [ ] **Building high-level features using large scale unsupervised learning** (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209)
 
 ### Convolutional Neural Network Models
-- [ ] **EffNet: An Efficient Structure for Convolutional Neural Networks**, Freeman et al.
-[`pdf`](https://arxiv.org/abs/1801.06434)
+- [ ] **EffNet: An Efficient Structure for Convolutional Neural Networks**, Freeman et al.[`pdf`](https://arxiv.org/abs/1801.06434)
 - [ ] **Squeeze-and-Excitation Networks**, Hu et al. [`pdf`](https://arxiv.org/abs/1709.01507)
-- [X] **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**, Howard et al.
-[`pdf`](https://arxiv.org/abs/1704.04861)
-- [X] **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**, Zhang et al.
-[`pdf`](https://arxiv.org/abs/1707.01083)
-- [ ] **Residual Attention Network for Image Classification**, Wang et al.
-[`pdf`](https://arxiv.org/abs/1704.06904)
-- [ ] **Densely Connected Convolutional Networks**, Huang et al.
-[`pdf`](https://arxiv.org/abs/1608.06993)
-- [ ] **Xception: Deep Learning with Depthwise Separable Convolutions**, Chollet.
-[`pdf`](https://arxiv.org/abs/1610.02357) 
-- [ ] **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**,
-Liu et al. [`pdf`](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
-- [ ] **Practical Riemannian Neural Networks**, Marceau-Caron and Ollivier.
-[`pdf`](https://arxiv.org/abs/1602.08007)
-- [ ] **Rethinking the Inception Architecture for Computer Vision**, Szegedy et al.
-[`pdf`](https://arxiv.org/abs/1512.00567)
-- [ ] **Deep Residual Learning for Image Recognition**, He et al.
-[`pdf`](https://arxiv.org/abs/1512.03385)
-- [ ] **Very Deep Convolutional Networks for Large-Scale Image Recognition**, Simonyan et al.
-[`pdf`](https://arxiv.org/abs/1409.1556) 
+- [X] **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**, Howard et al. [`pdf`](https://arxiv.org/abs/1704.04861)
+- [X] **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**, Zhang et al. [`pdf`](https://arxiv.org/abs/1707.01083)
+- [ ] **Residual Attention Network for Image Classification**, Wang et al. [`pdf`](https://arxiv.org/abs/1704.06904)
+- [ ] **Densely Connected Convolutional Networks**, Huang et al. [`pdf`](https://arxiv.org/abs/1608.06993)
+- [ ] **Xception: Deep Learning with Depthwise Separable Convolutions**, Chollet. [`pdf`](https://arxiv.org/abs/1610.02357) 
+- [ ] **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**, Liu et al. [`pdf`](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
+- [ ] **Practical Riemannian Neural Networks**, Marceau-Caron and Ollivier. [`pdf`](https://arxiv.org/abs/1602.08007)
+- [ ] **Rethinking the Inception Architecture for Computer Vision**, Szegedy et al. [`pdf`](https://arxiv.org/abs/1512.00567)
+- [ ] **Deep Residual Learning for Image Recognition**, He et al. [`pdf`](https://arxiv.org/abs/1512.03385)
+- [ ] **Very Deep Convolutional Networks for Large-Scale Image Recognition**, Simonyan et al. [`pdf`](https://arxiv.org/abs/1409.1556) 
 - [ ] **Going Deeper with Convolutions**, Szegedy et al. [`pdf`](https://arxiv.org/abs/1409.4842) :star:
-- [X] **ImageNet Classification with Deep Convolutional Neural Networks(AlexNet)**, Krizhevsky et al.
-[`pdf`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) :star:
+- [X] **ImageNet Classification with Deep Convolutional Neural Networks(AlexNet)**, Krizhevsky et al.[`pdf`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) :star:
 
 
 ### Image: Segmentation / Object Detection
